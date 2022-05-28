@@ -17,4 +17,9 @@ An example record format is "ender.miriz@pru.edu.tr 28.05.2022 22 30.txt."
 
 
 I added the user manual of my program named "Adminpanel" to the folder as ".pdf". You can see the parts you have in mind there.
-![8-removebg-min](https://user-images.githubusercontent.com/96499753/170841680-398b1161-126e-43ec-8a5e-d1dbc0a206ee.png)
+
+
+
+
+
+![8-removebg-min](https://user-images.githubusercontent.com/96499753/170841724-1a47918e-e874-4ba8-8963-6d6c150b1412.png)
