@@ -20,5 +20,6 @@ I added the user manual of my program named "Adminpanel" to the folder as ".pdf"
 
 
 
-![8-removebg-min](https://user-images.githubusercontent.com/96499753/170841736-aa534091-c163-45cd-9a80-eae47428bcff.png)
+![8-removebg-min](https://user-images.githubusercontent.com/96499753/170841748-d6fe6d3c-c581-432b-bd26-9669e06ab5b8.png)
+
 
