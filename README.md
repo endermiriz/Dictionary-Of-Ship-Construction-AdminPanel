@@ -21,6 +21,5 @@ I added the user manual of my program named "Adminpanel" to the folder as ".pdf"
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/96499753/170841748-d6fe6d3c-c581-432b-bd26-9669e06ab5b8.png">
+   <img width="350" height="350" src="https://user-images.githubusercontent.com/96499753/170841935-8bba25e1-0e47-45ce-bf63-498e55aeed60.png">
 </p>
-
-
